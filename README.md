@@ -1,6 +1,4 @@
-# Project2
-
-# Cultural Exchanges: The Journey of Foreign Workers to Alaska
+# GEOG458 Final Project: "Cultural Exchanges: The Journey of Foreign Workers to Alaska"
 
 ## By: Franz Arend, Jacque Ines, Meghan Ng, Moises Salazar-Morgan
 
