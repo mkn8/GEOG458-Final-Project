@@ -1,6 +1,6 @@
 # GEOG458 Final Project: "Cultural Exchanges: The Journey of Foreign Workers to Alaska"
 
-## Created By Franz Arend, Jacque Ines, Meghan Ng, Moises Salazar-Morgan
+## Created by Franz Arend, Jacque Ines, Meghan Ng, Moises Salazar-Morgan
 
 ## URL to group Google Doc write-up: 
 Brainstorming, planning, and discussion: https://docs.google.com/a/uw.edu/document/d/1XaPe2uEPlm5bEJfqXNlJ_w0ynOMQCtD8AvST9mz8p-4/edit?usp=sharing
